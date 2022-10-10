@@ -1,0 +1,14 @@
+{
+  "name": "manh_cuong-fx17174-assignment-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.5"
+  }
+}
